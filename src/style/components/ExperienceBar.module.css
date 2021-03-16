@@ -1,0 +1,25 @@
+.experience{
+    display: flex;
+    align-items: center;
+}
+.experience span{
+    font-size: 1rem;
+}
+.experience > div{
+    flex: 1;
+    height: 4px;
+    border-radius: 4px;
+    background: var(--gray-inline);
+    margin: 0 1.5rem;
+    position: relative;
+}
+.experience > div > div{
+    height: 4px;
+    border-radius: 4px;
+    background: var(--green);
+}
+span.currentexp{
+    position: absolute;
+    top: 12px;
+    transform: translateX(-50%);
+}
