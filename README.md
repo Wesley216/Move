@@ -19,12 +19,13 @@ Usado para que o CSS puro não afete outras páginas, restringe o CSS apenas ao 
 É a API de contexto do React, com ele é possível fazer comunicação entre componentes. Dentro de um contexto é possível passar objetos, funções e entre outras coisas, mas no site da vercel vem falando mais sobre essa API.
 
 ## Comando de criação do app
-   
+
+```bash
 - npx create-next-app move-next -> cria o projeto em next
 - npm i typescript @types/react @types/react-dom @types/node -D -> Instala typescript na aplicação
 -npm run dev -> Roda o projeto
 - npm i js-cookie
-
+```
 ## Clone para rodar o app   
    
    $ git clone https: //github.com/Wesley216/move
