@@ -21,14 +21,15 @@ Usado para que o CSS puro não afete outras páginas, restringe o CSS apenas ao 
 ## Comando de criação do app
 
 ```bash
-- npx create-next-app move-next -> cria o projeto em next
-- npm i typescript @types/react @types/react-dom @types/node -D -> Instala typescript na aplicação
--npm run dev -> Roda o projeto
+- npx create-next-app move-next - Cria o projeto em next
+- npm i typescript @types/react @types/react-dom @types/node -D - Instala typescript na aplicação
+- npm run dev - Roda o projeto
 - npm i js-cookie
 ```
 ## Clone para rodar o app   
-   
+   ``` git bash
    $ git clone https: //github.com/Wesley216/move
    $ cs move-next
    $ npm install
    $ npm run dev
+   ```
