@@ -69,7 +69,7 @@
 }
 
 .but:disabled{
-    background: var(--white);
+    background: var(--red-dark);
     color: var(--text);
     cursor: not-allowed;
 }

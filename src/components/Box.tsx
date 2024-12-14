@@ -53,7 +53,7 @@ export function Box() {
             ):(
 
             <div className={style.noActive}>
-                <strong>Finalize um cilco para receber um novo dasafio</strong>
+                <strong>Finalize um ciclo para receber um novo dasafio</strong>
                 <p>
                     <img src="icons/level-up.svg" alt=""/>
                     Avance de level completando desafios.
